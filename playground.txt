@@ -1,9 +1,5 @@
 Line 1
-<<<<<<< HEAD
 Line 2 this is the best class
-=======
-Line 2 
->>>>>>> changed line 5
 Line 3
 Line 4 lets work hard and smart
 Line 5
